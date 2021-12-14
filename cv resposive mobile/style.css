@@ -1,0 +1,189 @@
+
+
+    
+
+
+
+*{
+    list-style: none;
+    color: rgb(141, 129, 129);
+    font-family: 'Mukta', sans-serif;
+  position: static;
+  
+  text-align: center;
+  margin-left: auto; 
+   margin-right: auto;
+    
+    }
+    
+    html {
+        margin:0;
+        padding:0;
+        }
+    
+    body{
+    background: #0B122C;
+    height: 455vh;
+    
+    
+    
+    }
+    
+    .textt{
+    height: 650px;
+    width: 350px;;
+   
+    border: solid rgb(146, 113, 113) 1 px;
+    
+    }
+    
+    .navebar{
+        
+        position: sticky;
+        top: 1px;
+        z-index: 100;
+        background: rgb(22, 41, 97);
+    height: 50px;
+    
+    
+    }
+    
+    .frontend{
+
+        height: 500px;
+        width: 350px;;
+
+    }
+    
+    
+    
+    .backg{
+    background: rgb(95, 76, 76);
+    height: 20px;
+    width: 350px;;
+    }
+    
+    
+    
+    .info{
+      
+        
+    height: 200px;
+    width: 350px;;
+       
+       
+        }
+    
+    
+    
+    li{
+        float:left;
+        padding-left: 20px;
+        border-radius: 30px;
+        border: rgb(2, 4, 10) 2px;
+    }
+    
+    
+    .bar{
+       
+        width: 30em;
+        height: 1em;
+        border-radius: 0.5em;
+        position: relative;
+        background: #bb9f9f;
+        box-shadow: inset 0 0 0 1px rgba(0,0,0,0.1);
+      }
+    
+      .info2{
+          
+       
+    
+       
+    height: 500px;
+    width: 350px;;
+    
+    border: solid rgb(146, 113, 113) 1 px;
+   
+        }
+    
+    .webdesign{
+    
+        
+    
+        
+        height: 500px;
+        width: 350px;;
+    
+    border: solid rgb(146, 113, 113) 1 px;
+    
+    
+    }
+    
+    .teletravail {
+    
+       
+        
+            
+            height: 500px;
+            width: 350px;;
+        
+        border: solid rgb(146, 113, 113) 1 px;
+       
+    
+    
+    
+    }
+      
+    .mes-projects {
+    
+        
+        
+            
+            height: 200px;
+            width: 350px;;
+        
+        border: solid rgb(146, 113, 113) 1 px;
+     
+    
+    
+    
+    }
+    
+    .contact{
+        
+        
+      
+            height: 150px;
+            width: 350px;;
+        
+        border: solid rgb(146, 113, 113) 1 px;
+        
+    }
+    
+    .image{
+    background: url(./pexels-anna-belousova-10400270res.jpg) 100%;
+    height: 500px;
+    width: 350px;
+    border: black 3px solid;
+    }
+    
+    
+    
+    
+    
+    
+    li:hover {
+    
+    background: red;
+    
+    }
+    
+    
+    .hov:hover{
+    
+    color: yellow;
+    
+    }
+    
+
+
